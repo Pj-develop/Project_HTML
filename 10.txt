@@ -1,0 +1,59 @@
+<HTML>
+<HEAD>
+<TITLE> Internal Linking</TITLE>
+</HEAD>
+<BODY>
+<H2><Center>Definations of Common Words</Center>
+<UL>
+<LI><A HREF=#Bill of Quantities>Bill of Quantities</A>
+<LI><A HREF=#Compensation Events>Compensation Events </A>
+<LI><A HREF=#Completion Date>Completion Date</A>
+<LI><A HREF=#Contract>Contract</A>
+<LI><A HREF=#Contractor>Contractor</A>
+<LI><A HREF=#Engineer>Engineer</A>
+<LI><A HREF=#Intended Completion Date>Intended Completion Date</A>
+<LI><A HREF=#Works>Works</A>
+</UL>
+<A NAME="Bill of Quantities"><Br>
+Bill of Quantities means the priced and completed Bill of Quantities forming part of the Bid.
+Bill of Quantities means the priced and completed Bill of Quantities forming part of the Bid.
+Bill of Quantities means the priced and completed Bill of Quantities forming part of the Bid.<BR><BR>
+
+<A NAME="Compensation Events"><Br>
+Compensation Events are those defined in Clause 44 hereunder
+Compensation Events are those defined in Clause 44 hereunder
+Compensation Events are those defined in Clause 44 hereunder
+Compensation Events are those defined in Clause 44 hereunder
+Compensation Events are those defined in Clause 44 hereunder.
+
+<A Name="Completion Date"><BR>
+The Completion Date is the date of completion of the Works as certified by the Engineer-in- Charge in accordance with Sub Clause 55.1
+The Completion Date is the date of completion of the Works as certified by the Engineer-in- Charge in accordance with Sub Clause 55.1
+The Completion Date is the date of completion of the Works as certified by the Engineer-in- Charge in accordance with Sub Clause 55.1
+The Completion Date is the date of completion of the Works as certified by the Engineer-in- Charge in accordance with Sub Clause 55.1<BR><BR>
+
+<A NAME="Contract"><BR>
+The Contract is the contract between the Employer and the Contractor to execute, complete and maintain the Works. It consists of the documents listed in Clause 2.3 below.
+The Contract is the contract between the Employer and the Contractor to execute, complete and maintain the Works. It consists of the documents listed in Clause 2.3 below.
+The Contract is the contract between the Employer and the Contractor to execute, complete and maintain the Works. It consists of the documents listed in Clause 2.3 below.
+The Contract is the contract between the Employer and the Contractor to execute, complete and maintain the Works. It consists of the documents listed in Clause 2.3 below.
+
+<A NAME="Engineer"><BR>
+The Engineer is the person named in the Contract Data (or any other competent person appointed and notified to the contractor to act in replacement of the Engineer-in-Charge) who is responsible for supervising the Contractor, administering the Contract, certifying payments due to the Contractor, issuing and valuing Variations to the Contract, awarding extensions of time, and valuing the Compensation Events
+The Engineer is the person named in the Contract Data (or any other competent person appointed and notified to the contractor to act in replacement of the Engineer-in-Charge) who is responsible for supervising the Contractor, administering the Contract, certifying payments due to the Contractor, issuing and valuing Variations to the Contract, awarding extensions of time, and valuing the Compensation Events
+The Engineer is the person named in the Contract Data (or any other competent person appointed and notified to the contractor to act in replacement of the Engineer-in-Charge) who is responsible for supervising the Contractor, administering the Contract, certifying payments due to the Contractor, issuing and valuing Variations to the Contract, awarding extensions of time, and valuing the Compensation Events
+The Engineer is the person named in the Contract Data (or any other competent person appointed and notified to the contractor to act in replacement of the Engineer-in-Charge) who is responsible for supervising the Contractor, administering the Contract, certifying payments due to the Contractor, issuing and valuing Variations to the Contract, awarding extensions of time, and valuing the Compensation Events
+
+<A NAME="Intended Completion Date">
+The Intended Completion Date is the date on which it is intended that the Contractor shall complete the Works. The Intended Completion Date is specified in the Contract Data. The Intended  Completion  Date  may  be  revised  only  by  the  Engineer-in-Charge  by  issuing  an extension of time.
+The Intended Completion Date is the date on which it is intended that the Contractor shall complete the Works. The Intended Completion Date is specified in the Contract Data. The Intended  Completion  Date  may  be  revised  only  by  the  Engineer-in-Charge  by  issuing  an extension of time.
+The Intended Completion Date is the date on which it is intended that the Contractor shall complete the Works. The Intended Completion Date is specified in the Contract Data. The Intended  Completion  Date  may  be  revised  only  by  the  Engineer-in-Charge  by  issuing  an extension of time.
+The Intended Completion Date is the date on which it is intended that the Contractor shall complete the Works. The Intended Completion Date is specified in the Contract Data. The Intended  Completion  Date  may  be  revised  only  by  the  Engineer-in-Charge  by  issuing  an extension of time.
+
+<A NAME="Works">
+The Works are what the Contract requires the Contractor to construct, install, and turn over to the Employer, as provided in the bid documents, BOQ and drawings etc. and as directed by the Engineer from time to time defined in the Contract Data.
+The Works are what the Contract requires the Contractor to construct, install, and turn over to the Employer, as provided in the bid documents, BOQ and drawings etc. and as directed by the Engineer from time to time defined in the Contract Data.
+
+
+</BODY>
+</HTML>

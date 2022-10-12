@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE> External Linking & Mailing Tag</TITLE>
+</HEAD>
+<BODY>
+<UL>
+<LI><A HREF="http://www.amazon.com/"> Amazon Site</A>
+<LI><A HREF="http://www.intel.com/"> Intel Corporation</A>
+<LI>For Standard Hardware <A HREF="http://www.ibm.com/"> IBM Corporation</A>
+<LI>For Standard Software<A HREF="http://www.microsoft.com/"> Microsoft Corporation</A>
+<LI>For New Products<A HREF="http://www.Google.com/"> Google</A>
+<LI>For Best School <A HREF="http://www.masdpublicschool.in/">MASD Public School</A>
+<LI><A HREF="mailto:masdschool@gmail.com">Contact Us For More Info.</A>
+</Ul>
+</BODY>
+</HTML>

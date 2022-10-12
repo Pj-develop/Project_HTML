@@ -1,0 +1,11 @@
+<HTML><HEAD><TITLE> Chemical & Mathematical Formulae<TITLE></HEAD>
+</BODY>
+ <S> USING CHEMICAL AND MATHEMATICAL FORMULAE</S><BR>
+<B><U>Chemical formulae</U></B><BR>
+CO<SUB>2</SUB><BR>
+H<SUB>2</SUB>O<BR>
+<B><U>Displaying mathematical Forulae</U></B><BR>
+(A+B)<SUP>2</SUP>=A<SUP>2</SUP>+B<SUP>2</SUP>+2AB<BR>
+(A-B)<SUP>2</SUP>=A<SUP>2</SUP>+B<SUP>2</SUP>-2AB<BR><BR>
+<TT>Kips Team</TT>
+</BODY></HTML>

@@ -1,0 +1,18 @@
+<HTML>
+<HEAD>
+<TITLE> Inserting Image & Aligning it </TITLE>
+</HEAD>
+<BODY>
+<P>Give love today. love others.Love your family. Love God. He will see to it that you have sufficient love,and give
+you more in return that you can ever give away.Give love today. love others.Love your family. Love God. He will see to it that you have sufficient love,and give
+you more in return that you can ever give away.Give love today. love others.Love your family. Love God. He will see to it that you have sufficient love,and give
+you more in return that you can ever give away.Give love today. love others.Love your family. Love God. He will see to it that you have sufficient love,and give
+you more in return that you can ever give away.Give love today. love others.Love your family. Love God. He will see to it that you have sufficient love,and give
+you more in return that you can ever give away.Give love today. love others.Love your family. Love God. He will see to it that you have sufficient love,and give
+you more in return that you can ever give away.Give love today. love others.Love your family. Love God. He will see to it that you have sufficient love,and give
+you more in return that you can ever give away.Give love today. love others.Love your family. Love God. He will see to it that you have sufficient love,and give
+you more in return that you can ever give away.</P>
+<IMG SRC="pic.png"  ALT="Computer Application" Border="5" Align="right" HSPACE=30 VSPACE=30>
+<IMG SRC="pic.png" ALT="Computer Application" Border="5" Align="left" HSPACE=30 VSPACE=30>
+</BODY>
+</HTML>
